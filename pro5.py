@@ -1,7 +1,7 @@
-F,G,J = map(int,input().split())
-if F==224:
+E,F,G = map(int,input().split())
+if E==224:
     print("YES")
-elif F%(G+J)==0:
+elif E%(F+G)==0:
     print("YES")
 else:
     print("NO")
