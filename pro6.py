@@ -1,4 +1,4 @@
-m=int(input())
+o=int(input())
 k=list(map(int,input().split()))
 b1=0
 for n in range(len(k)-2):
