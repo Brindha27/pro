@@ -1,4 +1,4 @@
-m1,n1=map(int,input().split())
+m2,n1=map(int,input().split())
 k1=[]
 s1=[]
 a1=[int(m) for m in input().split() ]
